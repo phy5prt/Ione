@@ -6,7 +6,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		print("working ! working ? working!!!!!!!!!!!");
+		print("working ! working ? working!!!!!!!!!!! On Ione Branchy Branch WANG");
 	}
 	
 	// Update is called once per frame
